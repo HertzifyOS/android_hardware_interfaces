@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f99da536_e5401be5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000034
+      },
+      "writtenOn": "2025-11-17T12:57:50Z",
+      "side": 1,
+      "message": "Fixes https://gitlab.com/LineageOS/issues/android/-/issues/9426 if opted-in by device",
+      "revId": "56675704c299644cebca1be006d305830548a3f8",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
